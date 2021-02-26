@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(18, 89, 117);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+p {
+    color: white;
+}
+
+#web-intro {
+    max-width: none;
+    max-height: none;
+    font-size: 20;
+    float: left;
+    margin-left: 10%;
+}
+#last-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
+
+
+
+
+    
